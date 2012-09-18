@@ -1,4 +1,11 @@
+This project is a fork of A2Billing.
 
+99% of this code is all written by the A2Billing guys. I'm forking their project instead of 
+working on it because I want to make large changes to A2Billing (I.E. writing the rate for a
+call to the cdr instead of linking to the ratecard, dropping tons of features like sip and iax2
+calls)
+
+Is A3Billing a stupid name? Yes, yes it is.
 
 .. image:: https://github.com/Star2Billing/a2billing/raw/master/common/images/logo/a2billing.png
 
@@ -38,4 +45,3 @@ Support
 Star2Billing S.L. offers consultancy including installation, training and customisation 
 
 Please email us at sales@star2billing.com for more information
-
