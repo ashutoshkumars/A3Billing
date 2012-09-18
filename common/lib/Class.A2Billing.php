@@ -31,6 +31,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
  * 
+ * This file is also part of a fork of A2billing.
 **/
 
 define('A2B_CONFIG_DIR', '/etc/');
